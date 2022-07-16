@@ -1,0 +1,450 @@
+name,number
+BBC One Lon,101
+BBC Two,102
+ITV,103
+Channel 4,104
+Channel 5,105
+SkyShowcaseHD,106
+Sky Witness HD,107
+Sky Atlantic HD,108
+alibi HD,109
+GOLD HD,110
+Dave HD,111
+ComedyCentHD,112
+Sky Max HD,113
+Sky Comedy HD,114
+BBC One HD,115
+BBC Four,116
+London Live,117
+ITV2 HD,118
+ITV3 HD,119
+ITV4 HD,120
+SkyDocmntrsHD,121
+Sky Crime HD,122
+Sky HistoryHD,123
+Sky Nature HD,124
+Discovery HD,125
+MTV HD,126
+ComedyXtra,127
+5STAR,128
+Nat Geo HD,129
+Sky Arts HD,130
+ITVBe,131
+W HD,132
+TLC HD,133
+S4C,134
+E4 HD,135
+More4 HD,136
+4seven,137
+E4 Extra,139
+Food Network,140
+5 USA,141
+Really,142
+Drama,143
+QUEST,144
+Sky Replay,145
+CBS Reality,146
+RealityXtra,147
+Legend,148
+Quest Red,149
+5ACTION,150
+E! HD,151
+SYFY HD,152
+5SELECT,153
+ID,154
+YESTERDAY,155
+Crime+Inv HD,156
+GREAT! tv,157
+HGTV,158
+Pick,159
+Challenge,160
+Disc.Turbo,161
+Animal Planet,162
+SkyHistory2HD,163
+BLAZE,164
+NatGeoWild HD,165
+Eden,166
+Disc.Science,167
+BBC ALBA,169
+Together,170
+Smithsonian,171
+DMAX,172
+BBC Three,173
+PBS America,174
+ARISEPlay,175
+Disc.History,177
+Court TV,179
+Channel 7,182
+Travelxp,185
+That's TV,187
+NTD,190
+Ayozat TV,191
+BBC Scotland,194
+Local TV,195
+ITV+1,203
+Channel 4+1,204
+Channel 5+1,205
+SkyShowcase+1,206
+Sky Witness+1,207
+Sky Atlantic+1,208
+alibi+1,209
+GOLD+1,210
+Dave ja vu,211
+ComedyCent+1,212
+ITV2+1,218
+ITV3+1,219
+ITV4+1,220
+Sky Crime+1,222
+Sky History+1,223
+Discovery+1,225
+5STAR+1,228
+Nat Geo+1,229
+W+1,232
+TLC+1,233
+E4+1,235
+More4+1,236
+Food Netwrk+1,240
+5USA+1,241
+Drama+1,243
+QUEST+1,244
+CBS Reality+1,246
+Quest Red+1,249
+ID+1,254
+YESTERDAY+1,255
+Crime+Inv+1,256
+GREAT! tv+1,257
+HGTV+1,258
+Disc.Turbo+1,261
+Animal Plnt+1,262
+Eden+1,266
+Disc.Sci+1,267
+DMAX+1,272
+Disc.History+1,277
+Sky Premiere,301
+Sky Music HD,302
+Sky Hits HD,303
+Sky Greats,304
+SkyAnimationHD,305
+Sky Family,306
+Sky Action,307
+Sky Comedy HD,308
+Sky Thriller HD,309
+Sky Drama HD,310
+Sky ScFi/HorHD,311
+SkyPremiere+1,312
+Film4 HD,313
+Film4+1,314
+TCM Movies,315
+TCM Movies+1,316
+HorrorXtra,317
+HorrorXtra+1,318
+GREAT! Classic,319
+GREAT! Classic+1,320
+GREAT! movies,321
+GREAT! movies+1,322
+GREAT! action,323
+GREAT!action+1,324
+Movies24,325
+Movies24+,326
+TalkingPictures,328
+ROK,329
+MTV MUSIC,350
+MTV HITS,351
+MTV 90s,352
+MTV 80s,353
+4Music,354
+The Box,355
+KISS,356
+Magic,357
+Kerrang!,358
+Trace Hits,359
+Trace Vault,360
+NOW 70s,361
+NOW 80s,362
+NOW 90s,363
+Clubland TV,364
+Spotlight TV,365
+SkySpMainEv,401
+SkySp PL,402
+SkySp F'ball,403
+SkySp Cricket,404
+SkySp Golf,405
+SkySp F1,406
+SkySp Action,407
+SkySp Arena,408
+SkySp News HD,409
+Eurosport 1 HD,410
+Eurosport 2 HD,411
+Premier 1 HD,412
+BT Sport 1,413
+BT Sport 2,414
+SkySp Racing,415
+SkySp Mix HD,416
+BT Sport 3,417
+MUTV HD,418
+Premier 2 HD,421
+FreeSports HD,422
+BT Sport//ESPN,423
+LFCTV HD,425
+Racing TV,426
+BoxNation,429
+GINXeSportsTV,433
+SportyStuff HD,437
+SkySpBoxOff,491
+BTSBoxOff2HD,494
+Sky News HD,501
+Bloomberg HD,502
+BBC NEWS,503
+BBC Parliament,504
+CNBC,505
+CNN,506
+NHK World HD,507
+Euronews,508
+NDTV 24x7,510
+FRANCE 24 HD,512
+Al Jazeera HD,513
+GB News HD,515
+TRT World,516
+Channels 24,518
+Arise News,519
+Arirang TV HD,522
+WION HD,523
+TVC News,524
+NBCNewsNowHD,525
+TalkTV HD,526
+GOD Channel,580
+revelation,581
+TBN UK,582
+DAYSTAR HD,583
+Inspiration TV,584
+LoveWorld HD,585
+EWTN Catholic,586
+Word Network,587
+Faith World TV,588
+KICC TV,589
+Faith UK,590
+Good News TV,591
+Dunamis TV,592
+SonLife,593
+New Media HD,594
+Cartoon Net HD,601
+CN+1,602
+Boomerang HD,603
+NickelodeonHD,604
+Nicktoons,605
+Nick Jr. HD,606
+CBBC,607
+CBeebies,608
+BabyTV,609
+Cartoonito,610
+Boomerang+1,611
+CITV,612
+Nick Jr. Too,613
+POP,614
+Tiny Pop,615
+Nickelodeon+1,616
+Tiny Pop+1,618
+POP+1,619
+POP Max,620
+POP Max+1,621
+Nick Jr+1,622
+Cartoon Netwrk,640
+Boomerang,641
+Nickelodeon,642
+CBBC HD,643
+CBeebies HD,644
+Nick Jr.,645
+QVC HD,660
+JML Direct,661
+TJC,662
+QVC Beauty,663
+Ideal World HD,664
+Gems TV,665
+High Street TV 1,666
+High Street TV 2,667
+TJC Beauty,668
+Best Direct,669
+HobbyMaker,670
+Ideal Extra,671
+High Street TV 3,672
+Craft Extra,673
+JewelleryMaker,674
+High Street TV 4,675
+TV Warehouse,676
+QVC Style HD,677
+Thane,679
+Direct Store TV,680
+QVC Extra,682
+Create&CraftHD,683
+Cruise1st.tv,688
+B4U Movies,701
+B4U Music,702
+SONY TV HD,703
+Utsav Bharat,704
+Utsav Plus HD,705
+COLORS HD,706
+Zee Cinema,707
+Zee TV HD,709
+AAJ TAK,710
+MATV National,711
+Foodxp,712
+ColorsRishtey,713
+ColorsCineplex,714
+SONY MAX HD,715
+Siraj TV,716
+Utsav Gold HD,717
+SONY SAB,718
+SONY MAX 2,720
+Aastha,724
+Sanskar,725
+MTA1 World,731
+HUM Masala,732
+Hidayat TV,733
+GEO News,734
+PTV Global,735
+New Vision TV,736
+Islam Channel,737
+GEO TV,738
+Noor TV,739
+IQRA TV,742
+92 News,743
+Islam TV,744
+Ahlebait TV,745
+Madani Chnl,746
+Takbeer TV,749
+HUM EUROPE,751
+British Muslim,752
+Dunya News,754
+Islam Ch Urdu,755
+Channel 44,756
+Eman Channel,757
+ARY Digital,758
+PTC PUNJABI,766
+Brit Asia TV,767
+Sikh Channel,768
+Sangat,769
+Akaal Channel,770
+Kanshi TV,772
+Pitaara,773
+PoliticsPunjab,774
+CHSTV,777
+IQRA Bangla,778
+ATN,779
+NTV,780
+TV One,781
+iON TV,782
+Deen TV,783
+Ahlulbayt TV,787
+SkyNewsArabia,788
+ImamHussein3,789
+PCNE Chinese,791
+Iran Int'l HD,793
+ColorsGujarati,794
+BBC Two HD,802
+ITV HD,803
+Channel 4 HD,804
+Channel 5 HD,805
+Sky Showcase,806
+Sky Witness,807
+Sky Atlantic,808
+alibi,809
+GOLD,810
+Dave,811
+ComedyCentral,812
+Sky Max,813
+Sky Comedy,814
+BBC Four HD,815
+ITV2,816
+ITV3,817
+ITV4,818
+SkyDocumntrs,819
+Sky Crime,820
+Sky History,821
+Sky Nature,822
+Discovery,823
+MTV,824
+Nat Geo,825
+Sky Arts,826
+W,827
+TLC,828
+S4C HD,829
+E4,830
+More4,831
+QUEST HD,834
+E!,835
+SYFY,836
+Crime+Inv,837
+Sky History2,840
+Nat Geo Wild,841
+Smithsonian HD,843
+BBCScotlandHD,844
+BBC Three HD,845
+SkyPremiereHD,848
+Sky Greats HD,849
+Sky Family HD,850
+Sky Action HD,851
+Film4,855
+SkySpMainEvHD,859
+SkySp PL HD,860
+SkySp F'ball HD,861
+SkySpCricket HD,862
+SkySp Golf HD,863
+SkySp F1 HD,864
+SkySp ActionHD,865
+SkySp ArenaHD,866
+SkySp News,867
+Eurosport 1,868
+Eurosport 2,869
+BT Sport 1 HD,870
+BT Sport 2 HD,871
+SkySp Racing HD,872
+SkySp Mix,873
+BT Sport 3 HD,874
+MUTV,875
+BTSpt//ESPNHD,876
+Racing TV HD,877
+Sky News,881
+BBC NEWS HD,882
+CNBC HD,883
+CNN HD,884
+TRT World HD,886
+TJC HD,890
+SONY TV,892
+Utsav Plus,893
+COLORS,894
+SONY MAX,895
+Utsav Gold,896
+PCNE Chinese HD,897
+Zee TV,898
+Sky Intro,899
+Sky Intro,950
+BBC One Scot,951
+BBC One Wales,952
+BBC One NI,953
+BBC One NE&C,955
+BBC One Yorks,956
+BBC One Yk&Li,957
+BBC One N West,958
+BBC One W Mid,959
+BBC One E Mid,960
+BBC One East E,961
+BBC One East W,962
+BBC One S East,963
+BBC One South,964
+BBC One Oxford,965
+BBC One West,966
+BBC One S West,967
+BBC One CI,968
+BBC Two Wales,971
+BBC Two NI,972
+BBC One ScotHD,977
+BBC One Wal HD,978
+BBC One NI HD,979
+BBC Two Wal HD,980
+BBC RB 1,981
+BBC RB 2,982
+BBC RB 3,983
+BBC RB 4,984
+BBC RB 5,985
+BBC RB 6,986
+BBC RB HD,987
