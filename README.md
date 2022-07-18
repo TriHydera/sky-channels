@@ -1,9 +1,8 @@
 ## Sky Channel List
-<center>
+  
 ![GitHub repo size](https://img.shields.io/github/repo-size/McJoe21/sky-channels?style=flat)
 ![GitHub](https://img.shields.io/github/license/McJoe21/sky-channels?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/McJoe21/sky-channels?style=flat)
-</center>
 
 Hello who ever found this,
 
