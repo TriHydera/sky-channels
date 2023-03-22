@@ -1,7 +1,7 @@
 CREATE TABLE mytable(
-   logo   VARCHAR(83) NOT NULL PRIMARY KEY
+   logo   VARCHAR(83) NOT NULL
   ,name   VARCHAR(17) NOT NULL
-  ,number INTEGER  NOT NULL
+  ,number INTEGER  NOT NULL PRIMARY KEY
 );
 INSERT INTO mytable(logo,name,number) VALUES ('https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1006.png','BBC One',101);
 INSERT INTO mytable(logo,name,number) VALUES ('https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2006.png','BBC Two',102);
