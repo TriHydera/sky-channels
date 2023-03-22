@@ -23,5 +23,5 @@ Enjoy your day!
 ## Downloading
 
 ```bash
-git clone https://github.com/TriHydra/sky-channels
+git clone https://github.com/TriHydera/sky-channels
 ```
