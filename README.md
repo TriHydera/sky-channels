@@ -1,8 +1,8 @@
 ## Sky Channel List
   
-![GitHub repo size](https://img.shields.io/github/repo-size/McJoe21/sky-channels?style=flat)
-![GitHub](https://img.shields.io/github/license/McJoe21/sky-channels?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/McJoe21/sky-channels?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/TriHydera/sky-channels?style=flat)
+![GitHub](https://img.shields.io/github/license/TriHydera/sky-channels?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/TriHydera/sky-channels?style=flat)
 
 Hello who ever found this,
 
@@ -15,6 +15,7 @@ This is nothing but a list of the Sky channels for England that I uploaded as di
 - [XML - Readable](./datasets/channel-list.xml)
 - [XML - Minified](./datasets/channel-list.min.xml)
 - [CSV - Spreadsheet](./datasets/channel-list.csv)
+- [CSV - Spreadsheet (With logos)](./datasets/channel-list-logos.csv)
 - [MySQL - Insert](./datasets/channel-list.mysql)
 
 Enjoy your day!
@@ -22,5 +23,5 @@ Enjoy your day!
 ## Downloading
 
 ```bash
-git clone https://github.com/McJoe21/sky-channels
+git clone https://github.com/TriHydra/sky-channels
 ```
